@@ -24,3 +24,17 @@ h1 {
 }
 
 /* footer */
+footer {
+    background-color: rgb(119, 119, 119);
+  }
+  
+  .footer-index {
+    height: 155px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .container-footer a {
+    display: inline-block;
+    margin: 2rem;
+  }
