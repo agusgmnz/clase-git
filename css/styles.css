@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   padding: 1, 5rem;
   font-family: "Bebas Neue", cursive;
-  font-size: 200px;
+  font-size: 100px;
 }
 
 .estilo-parrafo-centrado {
@@ -25,16 +25,24 @@ h1 {
 
 /* footer */
 footer {
-    background-color: rgb(119, 119, 119);
-  }
-  
-  .footer-index {
-    height: 155px;
-    width: 100%;
-    text-align: center;
-  }
-  
-  .container-footer a {
-    display: inline-block;
-    margin: 2rem;
-  }
+  background-color: rgb(119, 119, 119);
+}
+
+.footer-index {
+  height: 155px;
+  width: 100%;
+  text-align: center;
+}
+
+.container-footer a {
+  display: inline-block;
+  margin: 2rem;
+}
+
+/* nosotros */
+
+.titulo-nosotros {
+  font-family: "Bebas Neue", cursive;
+  font-size: 100px;
+  text-align: center;
+}
