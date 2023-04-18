@@ -6,4 +6,10 @@
 
 /* main */
 
+h1 {
+  text-align: center;
+  padding: 1, 5rem;
+  font-family: "Bebas Neue", cursive;
+  font-size: 100px;
+}
 /* footer */
