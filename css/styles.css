@@ -18,4 +18,9 @@ h1 {
   font-size: 35px;
 }
 
+.container {
+  display: block;
+  margin: 30px;
+}
+
 /* footer */
