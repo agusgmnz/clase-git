@@ -30,3 +30,21 @@ h1 {
   font-size: 100px;
   text-align: center;
 }
+
+.nosotros {
+  height: 350px;
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.izquierda {
+  width: 50%;
+}
+
+.derecha {
+  width: 50%;
+  background-image: url(../img/imagen-nosotros.jpg);
+  background-size: cover;
+}
