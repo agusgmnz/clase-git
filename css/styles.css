@@ -25,6 +25,10 @@ h1 {
 
 /* nosotros */
 
+#titulo-nosotros {
+  font-size: 50px;
+}
+
 .titulo-nosotros {
   font-family: "Bebas Neue", cursive;
   font-size: 100px;
@@ -39,12 +43,17 @@ h1 {
   flex-direction: row;
 }
 
-.izquierda {
-  width: 50%;
+.container-imagen {
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
-.derecha {
-  width: 50%;
-  background-image: url(../img/imagen-nosotros.jpg);
-  background-size: cover;
+.centro {
+  text-align: center;
+  margin: 30px;
+}
+
+main {
+  height: 1200px;
 }
